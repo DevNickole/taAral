@@ -1,0 +1,6 @@
+1. token is base on student rating for example tokenEarned = teachingRate - (rating X 10)
+2. Confirmation notification can be setup by the admin
+3. Leaderboard -> token and rating points
+4. Badges "tutor of the month"
+5. Keep the ui simple
+6. recomendation

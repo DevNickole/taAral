@@ -1,0 +1,7 @@
+python -m venv .venv -> creating virtual environment
+.\.venv\Scripts\activate -> for activating venv 
+deactivate -> for deactivating venv
+py -m pip install Django -> installing django
+django-admin startproject projectname -> create a project
+py manage.py startapp nameofapp -> create app
+py manage.py runserver
